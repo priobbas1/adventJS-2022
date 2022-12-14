@@ -27,3 +27,11 @@ function wrapping(gifts) {
 const gifts = ["book", "game", "socks"];
 const wrapped = wrapping(gifts);
 console.log(wrapped);
+
+/* Puntos conseguidos: 121
+2747 ops/s (Más alto es mejor)
+Complejidad ciclomática: 1
+(Más bajo es mejor)
+Mantenibilidad: 159%
+(Más alto es mejor)
+Los retos son puntuados dependiendo de la calidad de tu solución. Utilizamos diferentes factores como la complejidad ciclomática y la velocidad de ejecución. El número de líneas no es un factor determinante. */
