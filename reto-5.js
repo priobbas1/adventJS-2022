@@ -75,6 +75,5 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
       maxTotal = total;
     }
   }
-  console.log(maxTotal, "max total");
   return maxTotal;
 }
